@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShortStraw.iml" filepath="$PROJECT_DIR$/ShortStraw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/short_straw/short_straw.iml" filepath="$PROJECT_DIR$/short_straw/short_straw.iml" />
+    </modules>
+  </component>
+</project>
